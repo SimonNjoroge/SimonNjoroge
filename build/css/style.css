@@ -746,7 +746,8 @@ video {
 
 *
 {
-  font-family: abel;
+  /* font-family: 'Abel', sans-serif; */
+  font-family: 'Poppins', sans-serif;
   letter-spacing: 1.2px;
   -webkit-user-select: none;
      -moz-user-select: none;
