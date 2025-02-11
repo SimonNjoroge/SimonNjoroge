@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Simon Njoroge
+# Hi there! 👋 I'm Imtiaz Mani
 
 Welcome to my coding playground! 🚀 I'm a passionate web developer with a love for turning ideas into elegant, functional, and user-friendly websites.
 
@@ -25,9 +25,7 @@ Always on the lookout for the next exciting technology! Currently diving into:
 
 ## 📫 Let's Connect
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/SimonNjoroge/)
-- 🐦 [Twitter](https://twitter.com/singason655/)
-- 🌐 [Portfolio](https://simon-njoroge-blog.vercel.app/)
+- 🐦 [Twitter](https://x.com/ImtiazMani)
 
 Feel free to explore my repositories and let's collaborate on something amazing! Happy coding! 🚀
 
